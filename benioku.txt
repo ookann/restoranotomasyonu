@@ -1,0 +1,5 @@
+1- Kullanıcı adı ve parola girilerek giriş yapılır.
+2- Masa seçilir.
+3- Sipariş girilir.
+4- Hesap öde butonuna basarak hesap ödenmiş olur.
+ 
